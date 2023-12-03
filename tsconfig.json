@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true
+    // Add more options as needed
+  },
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules"]
+}
+
